@@ -5,3 +5,4 @@
 - created project
 - provisional ui (design) added
 - added integration for appwrite
+- created DNS entries
